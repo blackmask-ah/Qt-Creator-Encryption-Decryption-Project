@@ -17,10 +17,10 @@ sudo apt install qt5-qmake qtbase5-dev qttools5-dev-tools build-essential
   ```
 2. **Clone the Repository:**
    
-   ```bash
-   git clone https://github.com/blackmask-ah/QT_Creator_-C-C-.git  
-   cd QT_Creator_-C-C-
-   ./QT_PRO
+```bash
+git clone https://github.com/blackmask-ah/QT_Creator_-C-C-.git  
+cd QT_Creator_-C-C-
+./QT_PRO
    ```
 
 
