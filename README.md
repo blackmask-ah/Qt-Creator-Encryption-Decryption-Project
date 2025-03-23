@@ -24,8 +24,7 @@ cd QT_Creator_-C-C-
    ```
 
 
-#### **Contact for Freelancing:**  
-📩 **Email:** abh200731@gmail.com | abh200529@gmail.com  
-📞 **WhatsApp:** (+92) 3339176661  
+#### **Contact:**  
+📩 **Email:** abh200529@gmail.com   
 
 ONLY FOR LEARNING || HOW THINGS ARE WORKING.
